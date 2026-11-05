@@ -11,3 +11,4 @@
 6) Завершить программу
 ### Блок-схема
 ![Блок-схема](лб6.drawio.svg)
+https://olgmina.gitverse.site/course-c/praktika/rabota-2/index/
